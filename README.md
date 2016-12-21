@@ -6,7 +6,7 @@
                      /___/                                                                                                         
 ```
 
-A 10 week course introduciung students to basic coding skills and how to work with coders within an advertising agency or organization.
+A 10 week course introducing students to basic coding skills and how to work with coders within an advertising agency or organization.
 
 ## Info
 * Jiashan Wu, Tuesday, 7-10PM
