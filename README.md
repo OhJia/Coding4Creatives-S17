@@ -23,10 +23,8 @@ Grades will be determined according to the following breakdowns:
 * 10% Presentation
 
 ## Assignments & Presentations
-Assignments are due Tuesday 4pm. 
-
-[Assignments by week](https://github.com/OhJia/Coding4Creatives-S17/wiki)
-[Group presentation schedule](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
+* [Assignments by week](https://github.com/OhJia/Coding4Creatives-S17/wiki)
+* [Group presentation schedule](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
 
 ## Resources
 
