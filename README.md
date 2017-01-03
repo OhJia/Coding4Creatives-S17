@@ -43,7 +43,7 @@ Grades will be determined according to the following breakdowns:
 	* Using Github via the command line 
  	* Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 
-[Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-1-Assignment)
+[Week 1 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-1-Assignment)
 
 ### Week 2
 * Assignment review
