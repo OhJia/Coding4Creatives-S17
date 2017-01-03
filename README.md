@@ -50,9 +50,9 @@ Grades will be determined according to the following breakdowns:
 * Reading discussion
 * More on the internet
 	* Networks
-	* HTTP/HTTPS
-	* DNS/domain registrars
-	* Security 
+	  * HTTP/DNS
+	  * TCP/IP
+	  * Security 
 * Web development overview
 	* Front end and back end development
 	* Local vs. cloud hosting/services
