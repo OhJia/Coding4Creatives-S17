@@ -35,9 +35,11 @@ Grades will be determined according to the following breakdowns:
 * Syllabus review & expectations
 * Technologies past, present and future
 * Overview of computers and the internet
-	* CPU & memory
-	* 0s and 1s
-	* Client, server and browser
+  * input/process/memory/output (CPU & memory)
+  * Software and hardware
+  * Operating system, programs/apps
+  * Terminal/command line
+  * Client, server and browser
 * Assignment 0 review (HTML Q&A)
 * In-class setup demonstration
 	* Using Github via the command line 
