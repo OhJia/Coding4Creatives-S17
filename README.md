@@ -12,7 +12,6 @@ A 10 week course introducing students to basic coding skills and how to work wit
 * Instructor: Jiashan Wu. Email: hello@fromjia.com
 * Class Schedule: Tuesdays, 7 - 10pm
 * [Sign up for the mailing list](https://groups.google.com/forum/#!forum/coding4creatives)
-* [Syllabus details](https://docs.google.com/document/d/1RvxVYLn1Slns8Uvr6boPTcQ714DEvQZi77NMqE20MIQ/edit#)
 * [Google drive](https://drive.google.com/drive/u/1/folders/0B7dGfgUMgFffY2JGSnlEUk5rblk)
 
 ## Grading
@@ -29,6 +28,7 @@ Grades will be determined according to the following breakdowns:
 ## Resources
 
 ## Week by week (subject to change)
+* [Syllabus rough details](https://docs.google.com/document/d/1RvxVYLn1Slns8Uvr6boPTcQ714DEvQZi77NMqE20MIQ/edit#)
 
 ### Week 1
 * Introductions
