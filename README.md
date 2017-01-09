@@ -27,6 +27,17 @@ Grades will be determined according to the following breakdowns:
 
 ## Resources
 
+[All technical and reading/video resources for assignments](https://github.com/OhJia/Coding4Creatives-S17/wiki/All-assignment-resources)
+
+* Creative tech examples
+  * [3D graffiti sculptures by Evan Roth](http://www.designboom.com/art/evan-roth-3d-graffiti-sculptures/)
+  * [Shaved Bieber browser extension by Greg Leuch](http://fffff.at/shaved-bieber/)
+  * [MoMA Talk to Me exhibition](https://www.moma.org/interactives/exhibitions/2011/talktome/)
+  * [Free Art & Technology lab](http://fffff.at/)
+  * [MIT Media Lab generative identity](https://vimeo.com/20488585)
+  * [Electric Objects smart frame and artist community](https://www.electricobjects.com/)
+
+
 ## Week by week (subject to change)
 * [Syllabus rough details](https://docs.google.com/document/d/1RvxVYLn1Slns8Uvr6boPTcQ714DEvQZi77NMqE20MIQ/edit#)
 
@@ -43,12 +54,13 @@ Grades will be determined according to the following breakdowns:
 * Assignment 0 review (HTML Q&A)
 * In-class setup demonstration
 	* Using Github via the command line 
- 	* Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 
 [Week 1 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-1-Assignment)
 
 ### Week 2
 * Assignment review
+  * More on Github/terminal
+  * HTML/CSS Q&A
 * Reading discussion
 * More on the internet
 	* Networks
@@ -56,15 +68,16 @@ Grades will be determined according to the following breakdowns:
 	  * TCP/IP
 	  * Security 
 * Web development overview
-	* Front end and back end development
+	* Front end vs. back end development
 	* Local vs. cloud hosting/services
 	* [Pages with Github](https://pages.github.com/)
+	* Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 * Working with developers
 	* Phases: production, staging, live
 	* What is open source code
-* HTML & CSS
-	* Styling a web site
+* In class work session
 
+[Week 2 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-2-Assignment)
 
 ### Week 3
 * Assignment review
