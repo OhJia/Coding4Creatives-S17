@@ -41,7 +41,7 @@ Grades will be determined according to the following breakdowns:
 ## Week by week (subject to change)
 * [Syllabus rough details](https://docs.google.com/document/d/1RvxVYLn1Slns8Uvr6boPTcQ714DEvQZi77NMqE20MIQ/edit#)
 
-### Week 1
+### Week 1 (1/3)
 * Introductions
 * Syllabus review & expectations
 * Technologies past, present and future
@@ -57,7 +57,7 @@ Grades will be determined according to the following breakdowns:
 
 [Week 1 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-1-Assignment)
 
-### Week 2
+### Week 2 (1/10)
 * Assignment review
   * More on Github/terminal
   * HTML/CSS Q&A
@@ -79,7 +79,7 @@ Grades will be determined according to the following breakdowns:
 
 [Week 2 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-2-Assignment)
 
-### Week 3
+### Week 3 (1/17)
 * Assignment review
 * Reading discussion
 * What is Document Object Model (Q&As)
@@ -97,9 +97,9 @@ Grades will be determined according to the following breakdowns:
 * Assign groups for presentation (starting week 5)
 
 
-### Week 4
+### Week 4 (1/24)
 
-### Week 5
+### Week 5 (1/31)
 
 ### Week 6
 
