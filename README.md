@@ -71,9 +71,8 @@ Grades will be determined according to the following breakdowns:
 	* Front end vs. back end development
 	* Local vs. cloud hosting/services
 	* [Pages with Github](https://pages.github.com/)
-	* Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 * Working with developers
-	* Phases: production, staging, live
+	* Phases: dev, staging, live
 	* What is open source code
 * In class work session
 
@@ -94,6 +93,7 @@ Grades will be determined according to the following breakdowns:
 	* Default Stylings
 	* Responsive Grid System
 	* The Bootstrap Grid Template
+* Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 * Assign groups for presentation (starting week 5)
 
 
