@@ -36,6 +36,8 @@ Grades will be determined according to the following breakdowns:
   * [Free Art & Technology lab](http://fffff.at/)
   * [MIT Media Lab generative identity](https://vimeo.com/20488585)
   * [Electric Objects smart frame and artist community](https://www.electricobjects.com/)
+  * [Snoopi](http://fromjia.com/projects/snoopi/) the Data Sniffing Dog
+  * [Wayback WiFi](http://fromjia.com/projects/wayback/)
 
 
 ## Week by week (subject to change)
