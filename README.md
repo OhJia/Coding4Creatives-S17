@@ -80,8 +80,8 @@ Grades will be determined according to the following breakdowns:
 
 [Week 2 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-2-Assignment)
 
-### Week 3 (1/17)
-* Assignment review
+### Week 3 (1/21 - make up class)
+* Assignment review 
 * Reading discussion
 * What is Document Object Model (Q&As)
 * More CSS & introduction to Bootstrap (CSS)
@@ -96,10 +96,12 @@ Grades will be determined according to the following breakdowns:
 	* Responsive Grid System
 	* The Bootstrap Grid Template
 * Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
-* Assign groups for presentation (starting week 5)
+
+[Week 3 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-3-Assignment)
 
 
 ### Week 4 (1/24)
+* Assign groups for presentation (starting week 5)
 
 ### Week 5 (1/31)
 
