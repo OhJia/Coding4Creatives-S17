@@ -102,11 +102,65 @@ Grades will be determined according to the following breakdowns:
 
 
 ### Week 4 (1/24)
-* Assign groups for presentation (starting week 5)
+* Guest speaker 
+* Assignment review
+* DOM & HTML Review (head, body)
+  * Organizing your code
+  * Browser developer tool
+* What is an algorithm
+  * Class exercise: break a problem into a set of instructions
+  * Fundamentals of programming
+* Introduction to JavaScript
+  * Brief introduction to programming languages
+    * Syntax
+      * JS Syntax 
+  * Evolution of JavaScript: front end to back end
+  * Front end JavaScript
+  * Examples
+* Introduction to p5.js
+  * What is JS library
+  * What is canvas
+  * p5.js examples and p5.js mobile examples
+  * Setting up your files (HTML & sketch.js)
+  * intro to variables, functions, and JS objects
+  	* setup() and draw() (flow)
+  	* events: mousePressed()
+* Assign groups for presentation (starting Week 6)
+
+[Week 4 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-4-Assignment)
+
 
 ### Week 5 (1/31)
+* Assignment review
+* Programming concepts (using p5.js)
+  * Review (Q&A)
+  * Animation
+    * mouseX/mouseY
+    * random(), map(), translate(), rotate(), scale()
+    * push(), pop()
+  * Booleans
+  * Conditionals
+  * Iterations: for and while loop
+* Debugging 
+  * console.log()
 
-### Week 6
+Week 5 Assignment
+
+### Week 6 (2/7)
+* Assignment review
+* Programming concepts (using p5.js)
+  * Review (Q&A)
+  * Functions
+  * Arrays
+  * Object oriented programming overview
+  * Objects
+    * Classes
+    * Constructors
+* Creative tech overview
+  * Group presentation
+  * How it works 
+
+Week 6 Assignment
 
 ### Week 7
 
