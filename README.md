@@ -38,6 +38,8 @@ Grades will be determined according to the following breakdowns:
   * [Electric Objects smart frame and artist community](https://www.electricobjects.com/)
   * [Snoopi](http://fromjia.com/projects/snoopi/) the Data Sniffing Dog
   * [Wayback WiFi](http://fromjia.com/projects/wayback/)
+  * [Chrome Experiments](https://www.chromeexperiments.com/)
+  * [Codedoodles](http://codedoodl.es/)
 
 
 ## Week by week (subject to change)
@@ -82,19 +84,18 @@ Grades will be determined according to the following breakdowns:
 
 ### Week 3 (1/21 - make up class)
 * Assignment review 
+  * HTML/CSS review
 * Reading discussion
+* Creative browser experiments
+  * [Chrome Experiments](https://www.chromeexperiments.com/)
+  * [Codedoodles](http://codedoodl.es/)
+  * Creative coding JavaScript libraries
+    * [p5.js](http://p5js.org/)
+  	* [three.js](https://threejs.org/)
+  	* [paper.js](http://paperjs.org/)
 * What is Document Object Model (Q&As)
 * More CSS & introduction to Bootstrap (CSS)
-	* What Is Bootstrap
-	* Why
-	* Getting Started
-	* Getting Started Template
-	* Getting Started Examples
-	* Every bootstrap website
-	* Styling With Class
-	* Default Stylings
-	* Responsive Grid System
-	* The Bootstrap Grid Template
+	* [Bootstrap CSS example code](https://github.com/OhJia/Coding4Creatives-S17/tree/master/Example_bootstrapcss)
 * Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 
 [Week 3 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-3-Assignment)
