@@ -1,0 +1,23 @@
+body {
+	background-color: #FCE8E3;
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+.project img {
+	width: 100%;
+}
+
+/*
+	Media query. 
+	If screen width is smaller than 768px, 
+	element in disappear class will not display.
+*/
+@media (max-width: 768px) {
+	.disappear {
+		display: none;
+	}
+}
