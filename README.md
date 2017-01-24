@@ -42,8 +42,8 @@ Grades will be determined according to the following breakdowns:
   * [Codedoodles](http://codedoodl.es/)
 
 
-## Week by week (subject to change)
-* [Syllabus rough details](https://docs.google.com/document/d/1RvxVYLn1Slns8Uvr6boPTcQ714DEvQZi77NMqE20MIQ/edit#)
+## Week by week 
+* [Rough Syllabus](https://docs.google.com/document/d/1RvxVYLn1Slns8Uvr6boPTcQ714DEvQZi77NMqE20MIQ/edit#)
 
 ### Week 1 (1/3)
 * Introductions
@@ -152,6 +152,7 @@ Grades will be determined according to the following breakdowns:
   * Iterations: for and while loop
 * Debugging 
   * console.log()
+* Talk about final project
 
 Week 5 Assignment
 
@@ -172,13 +173,28 @@ Week 5 Assignment
   * How it works 
 
 Week 6 Assignment
+* Brainstorm final project 
 
 ***
 
 ### Week 7
+* Creative tech overview
+  * Group presentation
+* Present final project idea
+
+***
 
 ### Week 8
+* Creative tech overview
+  * Group presentation
+
+***
 
 ### Week 9
+* Creative tech overview
+  * Group presentation
+
+***
 
 ### Week 10
+* Final project presentation
