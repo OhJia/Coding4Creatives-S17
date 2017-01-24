@@ -135,7 +135,7 @@ Grades will be determined according to the following breakdowns:
 * Assign groups for presentation (starting Week 6)
 
 [Week 4 slides](https://docs.google.com/presentation/u/1/d/1BXx53do6siHDaWyAqs1CM478iA7nI8agltwLTKVun8Y/edit?usp=drive_web)
-/ [Week 4 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-4-Assignment): Start early! It'll take time to get through the tutorial videos and the coding assignment. 
+/ [Week 4 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-4-Assignment): _Start early! It'll take time to get through the tutorial videos and the coding assignment._ 
 
 ***
 
