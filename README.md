@@ -59,7 +59,8 @@ Grades will be determined according to the following breakdowns:
 * In-class setup demonstration
 	* Using Github via the command line 
 
-[Week 1 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-1-Assignment)
+* [Week 1 slides](https://docs.google.com/presentation/u/1/d/1hHvk-wQYWcdCyuecUsraFujThB5jma8F2z5IMbqESXM/edit?usp=drive_web)
+* [Week 1 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-1-Assignment)
 
 ### Week 2 (1/10)
 * Assignment review
@@ -80,7 +81,8 @@ Grades will be determined according to the following breakdowns:
 	* What is open source code
 * In class work session
 
-[Week 2 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-2-Assignment)
+* [Week 2 slides](https://docs.google.com/presentation/u/1/d/1VvxyKEgnOIgHy49FrNHtehR61WySKwktoK9XeL3F7QU/edit?usp=drive_web)
+* [Week 2 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-2-Assignment)
 
 ### Week 3 (1/21 - make up class)
 * Assignment review 
@@ -127,7 +129,8 @@ Grades will be determined according to the following breakdowns:
   	* events: mousePressed()
 * Assign groups for presentation (starting Week 6)
 
-[Week 4 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-4-Assignment): Start early! It'll take time to get through the tutorial videos and the coding assignment. 
+* [Week 4 slides](https://docs.google.com/presentation/u/1/d/1BXx53do6siHDaWyAqs1CM478iA7nI8agltwLTKVun8Y/edit?usp=drive_web)
+* [Week 4 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-4-Assignment): Start early! It'll take time to get through the tutorial videos and the coding assignment. 
 
 
 ### Week 5 (1/31)
