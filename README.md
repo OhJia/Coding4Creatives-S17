@@ -59,8 +59,10 @@ Grades will be determined according to the following breakdowns:
 * In-class setup demonstration
 	* Using Github via the command line 
 
-* [Week 1 slides](https://docs.google.com/presentation/u/1/d/1hHvk-wQYWcdCyuecUsraFujThB5jma8F2z5IMbqESXM/edit?usp=drive_web)
-* [Week 1 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-1-Assignment)
+[Week 1 slides](https://docs.google.com/presentation/u/1/d/1hHvk-wQYWcdCyuecUsraFujThB5jma8F2z5IMbqESXM/edit?usp=drive_web)
+[Week 1 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-1-Assignment)
+
+***
 
 ### Week 2 (1/10)
 * Assignment review
