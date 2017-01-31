@@ -174,7 +174,7 @@ Grades will be determined according to the following breakdowns:
   * How it works 
 
 Week 6 Assignment
-* Brainstorm final project 
+
 
 ***
 
