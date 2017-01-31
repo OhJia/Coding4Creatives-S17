@@ -152,9 +152,9 @@ Grades will be determined according to the following breakdowns:
   * Iterations: for and while loop
 * Debugging 
   * console.log()
-* Talk about final project
+* Talk about [final project](https://github.com/OhJia/Coding4Creatives-S17/wiki/Final-project)
 
-Week 5 Assignment
+[Week 5 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-5-Assignment): _Start early! It'll take time to get through the tutorial videos and the coding assignment._ 
 
 ***
 
@@ -177,24 +177,24 @@ Week 6 Assignment
 
 ***
 
-### Week 7
+### Week 7 (2/14)
 * Creative tech overview
   * Group presentation
 * Present final project idea
 
 ***
 
-### Week 8
+### Week 8 (2/21)
 * Creative tech overview
   * Group presentation
 
 ***
 
-### Week 9
+### Week 9 (2/28)
 * Creative tech overview
   * Group presentation
 
 ***
 
-### Week 10
+### Week 10 (3/7)
 * Final project presentation
