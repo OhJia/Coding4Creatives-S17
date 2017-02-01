@@ -171,7 +171,8 @@ Grades will be determined according to the following breakdowns:
     * Constructors
 * Creative tech overview
   * Group presentation
-  * How it works 
+  * How it works
+* Go over final project ideas 
 
 Week 6 Assignment
 
