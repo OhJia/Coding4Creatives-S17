@@ -170,7 +170,7 @@ Grades will be determined according to the following breakdowns:
     * Classes
     * Constructors
 * Creative tech overview
-  * Group presentation
+  * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
   * How it works
 * Go over final project ideas 
 
@@ -181,20 +181,20 @@ Week 6 Assignment
 
 ### Week 7 (2/14)
 * Creative tech overview
-  * Group presentation
+  * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
 * Present final project idea
 
 ***
 
 ### Week 8 (2/21)
 * Creative tech overview
-  * Group presentation
+  * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
 
 ***
 
 ### Week 9 (2/28)
 * Creative tech overview
-  * Group presentation
+  * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
 
 ***
 
