@@ -152,7 +152,7 @@ Grades will be determined according to the following breakdowns:
   * Iterations: for and while loop
 * Debugging 
   * console.log()
-* Talk about [final project](https://github.com/OhJia/Coding4Creatives-S17/wiki/Final-project)
+* Talk about [final project](https://github.com/OhJia/Coding4Creatives-S17/wiki/Final-project) & [group presentations](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
 
 [Week 5 slides](https://docs.google.com/presentation/d/1OJbUCV7o2BfbHp0aFATqRkR7Vsd1fh44r5uIGFaMb2w/edit#slide=id.p)
 / [Week 5 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-5-Assignment): _Start early! It'll take time to get through the tutorial videos and the coding assignment._ 
