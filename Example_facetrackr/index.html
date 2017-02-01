@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- To ensure proper rendering and touch zoom in mobile -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Facetrackr example</title>
+
+		<!-- Align container and header to center -->
+		<style>
+			#container, h2 {
+				text-align: center;
+			}
+			/*.btn {
+				font-family: 'Lato';
+				font-size: 16px;
+			}
+
+			#controls {
+				text-align : center;
+			}*/
+		</style>
+
+		<!-- 
+			Using clmtrackr.js: https://github.com/auduno/clmtrackr
+			and one of the models
+		-->
+		<script src="js/clmtrackr.js"></script>
+		<script src="model/model_pca_20_svm.js"></script>
+
+	</head>
+
+	<body>
+		<div id="content">
+			<h2>Turn on your web cam & big smile</h2>
+      		<div id="container">
+
+        		<video id="video" width="368" height="288" preload="auto" loop>
+				</video>
+        		<canvas id="canvas" width="368" height="288"></canvas>
+      		</div>
+      		<!-- <div id="controls">
+				<input class="btn" type="button" value="wait, loading video" disabled="disabled" onclick="startVideo()" id="startbutton"></input>
+			</div> -->
+
+      		<script src="js/sketch_face.js"></script>
+  		</div>
+	</body>
+
+</html>
