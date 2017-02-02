@@ -33,36 +33,6 @@ function init() {
 	camera.position.z = 6000;
 	scene.add( camera );
 	
-	// Planes
-	
-	//top wall
-	// plane1 = new THREE.Mesh( new THREE.PlaneGeometry( 500, 3000, 5, 15 ), new THREE.MeshBasicMaterial( { color: 0xcccccc, wireframe : true } ) );
-	// plane1.rotation.x = Math.PI/2;
-	// plane1.position.y = 250;
-	// plane1.position.z = 50-1500;
-	// scene.add( plane1 );
-	
-	//left wall
-	// plane2 = new THREE.Mesh( new THREE.PlaneGeometry( 3000, 500, 15, 5 ), new THREE.MeshBasicMaterial( { color: 0xcccccc, wireframe : true } ) );
-	// plane2.rotation.y = Math.PI/2;
-	// plane2.position.x = -250;
-	// plane2.position.z = 50-1500;
-	// scene.add( plane2 );
-	
-	//right wall
-	// plane3 = new THREE.Mesh( new THREE.PlaneGeometry( 3000, 500, 15, 5 ), new THREE.MeshBasicMaterial( { color: 0xcccccc, wireframe : true	} ) );
-	// plane3.rotation.y = -Math.PI/2;
-	// plane3.position.x = 250;
-	// plane3.position.z = 50-1500;
-	// scene.add( plane3 );
-	
-	//bottom wall
-	// plane4 = new THREE.Mesh( new THREE.PlaneGeometry( 500, 3000, 5, 15 ), new THREE.MeshBasicMaterial( { color: 0xcccccc, wireframe : true	} ) );
-	// plane4.rotation.x = -Math.PI/2;
-	// plane4.position.y = -250;
-	// plane4.position.z = 50-1500;
-	// scene.add( plane4 );
-	
 	// Create sprites with lines
 	
 	var placeTarget = function(x,y,z) {
