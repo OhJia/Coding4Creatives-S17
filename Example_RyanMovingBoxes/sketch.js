@@ -11,8 +11,8 @@ function draw() {
 	//background
 	background (0, 171, 255); 
 
-	textSize(64);
-	text("Try clicking each box", 210, 5);
+	textSize(24);
+	text("Try clicking each box", 300, 50);
 
 	//Draw box, three times
 	for (i = 0; i < 3; i++) {
