@@ -10,8 +10,9 @@ function setup() {
 function draw() {
 	//background
 	background (0, 171, 255); 
-	textSize(32);
-	text("Try clicking each box", 200, 100);
+
+	textSize(64);
+	text("Try clicking each box", 200, 20);
 
 	//Draw box, three times
 	for (i = 0; i < 3; i++) {
