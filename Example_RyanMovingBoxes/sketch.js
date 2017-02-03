@@ -17,8 +17,8 @@ function draw() {
 	//Draw box, three times
 	for (i = 0; i < 3; i++) {
 
-		// If box get out of the canvas, 
-		// move it back to the right side
+		// If box moves out of the canvas, 
+		// move it back to the right side of canvas
 		if (myBox.x <= -1000) {
 			myBox.x = 800;
 		} 
