@@ -10,7 +10,7 @@ function setup() {
 function draw() {
 	//background
 	background (0, 171, 255); 
-	
+	text("Try clicking each box", 200, 100);
 
 	//Draw box, three times
 	for (i = 0; i < 3; i++) {
