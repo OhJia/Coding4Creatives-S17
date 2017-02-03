@@ -1,4 +1,4 @@
-var box = {
+var myBox = {
 	x: 800
 };
 
@@ -17,16 +17,16 @@ function draw() {
 
 		// If box get out of the canvas, 
 		// move it back to the right side
-		if (box.x <= -1000) {
-			box.x = 800;
+		if (myBox.x <= -1000) {
+			myBox.x = 800;
 		} 
 
 		// If mouseIsPressed is true
 		if (mouseIsPressed) {
 
 			// And if mouseX & mouseY are inside the box
-			if (mouseX >= box.x + i*200 && 
-				mouseX <= box.x + i*200 + 150 &&
+			if (mouseX >= myBox.x + i*200 && 
+				mouseX <= myBox.x + i*200 + 150 &&
 				mouseY >= 100 && mouseY <= 100 + 150) {
 				
 				// Change the box color
@@ -46,11 +46,11 @@ function draw() {
 
 		
 		// Draw each box 200 px away from each other
-		rect (box.x + i*200, 100, 150, 150);
+		rect (myBox.x + i*200, 100, 150, 150);
 	}
 
 	// Move boxes
-	box.x = box.x - 2;
+	myBox.x = myBox.x - 2;
 
 	// Belt
 	fill (0);
