@@ -163,7 +163,9 @@ Grades will be determined according to the following breakdowns:
 * Go over final project ideas 
 * More browser based inspirations
 
-Week 6 Assignment
+[Week 6 slides](https://docs.google.com/presentation/d/1mfbrqyLEXicdc73dx9NdgJ3nB1LcUFNguCgCklq5X3U/edit#slide=id.p)
+ / [Week 6 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-6-Assignment)
+   * Finalize your final project idea
 
 
 ***
@@ -171,7 +173,7 @@ Week 6 Assignment
 ### Week 7 (2/14)
 * Creative tech overview
   * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
-* Present finalized final project idea
+* Present final project idea
 
 ***
 
