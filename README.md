@@ -27,19 +27,7 @@ Grades will be determined according to the following breakdowns:
 
 ## Resources
 
-[All technical and reading/video resources for assignments](https://github.com/OhJia/Coding4Creatives-S17/wiki/All-assignment-resources)
-
-* Creative tech examples
-  * [3D graffiti sculptures by Evan Roth](http://www.designboom.com/art/evan-roth-3d-graffiti-sculptures/)
-  * [Shaved Bieber browser extension by Greg Leuch](http://fffff.at/shaved-bieber/)
-  * [MoMA Talk to Me exhibition](https://www.moma.org/interactives/exhibitions/2011/talktome/)
-  * [Free Art & Technology lab](http://fffff.at/)
-  * [MIT Media Lab generative identity](https://vimeo.com/20488585)
-  * [Electric Objects smart frame and artist community](https://www.electricobjects.com/)
-  * [Snoopi](http://fromjia.com/projects/snoopi/) the Data Sniffing Dog
-  * [Wayback WiFi](http://fromjia.com/projects/wayback/)
-  * [Chrome Experiments](https://www.chromeexperiments.com/)
-  * [Codedoodles](http://codedoodl.es/)
+[All resources](https://github.com/OhJia/Coding4Creatives-S17/wiki/All-assignment-resources)
 
 
 ## Week by week 
