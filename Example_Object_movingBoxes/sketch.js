@@ -1,5 +1,7 @@
 var boxes = [];
 
+var num = 5;
+
 function Box(x, y) {
 	this.x = x;
 	this.y = y;
@@ -31,7 +33,7 @@ function Box(x, y) {
 
 function setup() {
 	createCanvas (800, 300);
-	for (var i = 0; i < 3; i++) {
+	for (var i = 0; i < num; i++) {
 		var x = 600;
 		var y = 175;
 		boxes[i] = new Box(x + i*200, y);
@@ -45,7 +47,7 @@ function draw() {
 	textSize(24);
 	text("Try clicking each box", 300, 50);
 
-	for (var i = 0; i < 3; i++) {
+	for (var i = 0; i < num; i++) {
 		boxes[i].move();
 		boxes[i].display();
 		
@@ -60,7 +62,7 @@ function draw() {
 }
 
 function mousePressed() {
-	for (var i = 0; i < 3; i++) {
+	for (var i = 0; i < num; i++) {
 		boxes[i].clicked();
 	}
 }

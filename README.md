@@ -171,9 +171,13 @@ Grades will be determined according to the following breakdowns:
 ***
 
 ### Week 7 (2/14)
+* Assignment review
+  * JS review (functions, objects, etc.)
+* Present final project idea
 * Creative tech overview
   * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
-* Present final project idea
+
+Start working on [final project](https://github.com/OhJia/Coding4Creatives-S17/wiki/Final-project). Present progress (updated sketches/mockups and code) next week. 
 
 ***
 
