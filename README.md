@@ -192,10 +192,14 @@ Continue working on [final project](https://github.com/OhJia/Coding4Creatives-S1
 ***
 
 ### Week 9 (2/28)
+* Guest speaker
+* Present final project code
+* Hosting your web site (w/[github pages](https://pages.github.com/))
 * Creative tech overview
   * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
 
 ***
 
 ### Week 10 (3/7)
+* Guest speaker
 * Final project presentation
