@@ -53,8 +53,8 @@ function draw() {
       // Must use vertex() before bezierVertex()
       vertex(300, 20); 
 
-      bezierVertex(80, 0, 80, 75, 30, 75);
-      bezierVertex(80, 75, 30, 75, 80, 0);
+      bezierVertex(p1.x, p1.y, p2.x, p2.y, p3.x, p3.y);
+      bezierVertex(p2.x, p2.y, p3.x, p3.y, p1.x, p1.y);
     endShape(CLOSE); 
   pop();
 
