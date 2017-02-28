@@ -192,11 +192,14 @@ Continue working on [final project](https://github.com/OhJia/Coding4Creatives-S1
 ***
 
 ### Week 9 (2/28)
-* Guest speaker
-* Present final project code
 * Hosting your web site (w/[github pages](https://pages.github.com/))
+* Go over final project 
+  * In class work time
 * Creative tech overview
   * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
+
+Continue working on [final project](https://github.com/OhJia/Coding4Creatives-S17/wiki/Final-project). Push project code to a new _Final_ folder in your _Coding-for-creatives-class_ repository. Be ready for your final presentation next week.
+* _Optional: host your sketch/site with Github pages_ 
 
 ***
 
