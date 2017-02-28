@@ -198,8 +198,9 @@ Continue working on [final project](https://github.com/OhJia/Coding4Creatives-S1
 * Creative tech overview
   * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
 
-Continue working on [final project](https://github.com/OhJia/Coding4Creatives-S17/wiki/Final-project). Push project code to a new _Final_ folder in your _Coding-for-creatives-class_ repository. Be ready for your final presentation next week.
-* _Optional: host your sketch/site with Github pages_ 
+* Continue working on [final project](https://github.com/OhJia/Coding4Creatives-S17/wiki/Final-project). Push project code to a new _Final_ folder in your _Coding-for-creatives-class_ repository. Be ready for your final presentation next week.
+  * _Optional: host your sketch/site with Github pages_ 
+* Sign up for your one-on-one review (I emailed a link to our Google Group)
 
 ***
 
