@@ -208,3 +208,4 @@ Assignment
 * Guest speaker
 * [Group presentation](https://github.com/OhJia/Coding4Creatives-S17/wiki/Group-Presentation-Schedule)
 * Final project presentations
+* [All resources](https://github.com/OhJia/Coding4Creatives-S17/wiki/All-resources)
